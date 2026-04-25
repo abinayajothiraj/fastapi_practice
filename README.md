@@ -104,13 +104,3 @@ This provides an interactive Swagger UI to test all APIs.
 
 ---
 
-##  Future Improvements
-
-* Add PATCH and DELETE APIs
-* Integrate database (SQLite/PostgreSQL)
-* Implement full CRUD operations
-* Add authentication
-
----
-
-
